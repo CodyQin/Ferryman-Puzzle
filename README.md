@@ -1,5 +1,5 @@
 # Ferryman-Puzzle
-My submission for the WWDC 2023 Swift Student Challenge (accepted)
+My submission for the WWDC 2023 Swift Student Challenge (accepted)(https://github.com/wwdc/2023)
 
 This is a small game about the wolf-goat-cabbage crossing problem. The story of the Wolf, Sheep and Cabbage Problem dates back to at least the 9th century and has become folklore in several cultures. In the story, a ferryman (farmer) buys wolves, sheep and cabbages from the market. To get home, he needs to row a wooden boat across the river, but the boat can only carry one of the wolf, the sheep, and the cabbage at a time, and the ferryman can't leave the wolf and the sheep, or the sheep and the cabbage, alone on the bank of the river while the boat is traveling back and forth, so how does the ferryman get all three goods to the other side of the river under those conditions? And Ferryman Puzzle aims to allow users can solve the wolf and sheep and cabbage across the river problem by hands-on practice.
 ![image](https://github.com/CodyQin/Ferryman-Puzzle/assets/125537769/974c602e-0723-41fa-b0b8-59d89ccdfa10)
